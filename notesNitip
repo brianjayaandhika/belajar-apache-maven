@@ -1,0 +1,9 @@
+Apache Maven
+
+1. Pengenalan Build Automation
+-> Proses meng-otomatisasi tahapan pembuatan software dan hal-hal yang berhubungan dengannya
+    - Kompilasi source code menjadi binary code
+    - mem-package binary code menjadi distribution file
+    - membuat dokumentasi
+    - menjalankan automated test sampai manajemen dependency
+-> 
